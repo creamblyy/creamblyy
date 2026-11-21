@@ -26,16 +26,16 @@
     "avatarShape": "cookie12",
     "chips": [
       {
-        "icon": "location_on",
-        "label": "Estonia"
-      },
-      {
         "icon": "brand:cplusplus",
         "label": "C++"
       },
       {
         "icon": "desktop_windows",
         "label": "Desktop"
+      },
+      {
+        "icon": "brand:python",
+        "label": "Python"
       }
     ]
   },
