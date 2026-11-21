@@ -100,13 +100,13 @@
     ]
   },
   "projects": {
-    "source": "pinned",
+    "source": "manual",
     "repos": [
       "ZenDesktop"
     ],
     "overrides": {
       "ZenDesktop": {
-        "description": "Модифицированный кросс-платформенный Telegram клиент с приватными хуками и Material 3 Expressive скруглениями."
+        "text": "Модифицированный кросс-платформенный Telegram клиент с приватными хуками и Material 3 Expressive скруглениями."
       }
     },
     "empty": "No description yet.",
