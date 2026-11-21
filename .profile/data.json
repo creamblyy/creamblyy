@@ -1,0 +1,399 @@
+{
+ "key": "6bc97d45",
+ "stars": 234,
+ "contributions": 276,
+ "repos": 11,
+ "followers": 47,
+ "languages": [
+  [
+   "C++",
+   41470102
+  ],
+  [
+   "JavaScript",
+   2059825
+  ],
+  [
+   "Python",
+   1407225
+  ],
+  [
+   "CSS",
+   515787
+  ],
+  [
+   "Objective-C++",
+   279293
+  ],
+  [
+   "CMake",
+   249555
+  ],
+  [
+   "C#",
+   239450
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 27,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 7,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 24,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 21,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 24,
+  "longest": 24
+ },
+ "pins": [
+  {
+   "name": "expressive-profile",
+   "url": "https://github.com/metawka/expressive-profile",
+   "text": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
+   "fork": false,
+   "stars": 145,
+   "language": "JavaScript",
+   "topics": [
+    "github-actions",
+    "github-profile",
+    "material-design",
+    "material-you",
+    "profile-readme",
+    "readme-generator"
+   ]
+  },
+  {
+   "name": "exDesktop",
+   "url": "https://github.com/metawka/exDesktop",
+   "text": "exDesktop – Модифицированный кросс-платформенный клиент Telegram Desktop с расширенными возможностями кастомизация, Material Expressive дизайном, лентой каналов, функциями AyuGram и плагинами.",
+   "fork": false,
+   "stars": 73,
+   "language": "C++",
+   "topics": [
+    "telegram",
+    "telegram-client",
+    "exdesktop"
+   ]
+  },
+  {
+   "name": "yandex-music-rpc",
+   "url": "https://github.com/metawka/yandex-music-rpc",
+   "text": "Discord Rich Presence для десктопной Яндекс Музыки. Нативный, без патча клиента",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": [
+    "discord-rich-presence",
+    "discord-rpc",
+    "rust",
+    "windows",
+    "yandex-music"
+   ]
+  },
+  {
+   "name": "SuperDictate-win",
+   "url": "https://github.com/metawka/SuperDictate-win",
+   "text": "Fast, private, local dictation for Windows.",
+   "fork": true,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "dictation",
+    "speech-to-text",
+    "windows"
+   ]
+  },
+  {
+   "name": "Win-Activity-Tracker",
+   "url": "https://github.com/metawka/Win-Activity-Tracker",
+   "text": "Local screen time tracker for Windows with a Task Manager style dashboard. No account, no telemetry.",
+   "fork": false,
+   "stars": 3,
+   "language": "C#",
+   "topics": [
+    "activity-tracker",
+    "csharp",
+    "dotnet",
+    "productivity",
+    "screen-time",
+    "time-tracker",
+    "windows",
+    "winui3"
+   ]
+  },
+  {
+   "name": "tg-bot-ultra-skill",
+   "url": "https://github.com/metawka/tg-bot-ultra-skill",
+   "text": "Claude Code skill for building Telegram bots on Bot API 10.x rich messages, with a BotFather MCP server",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "claude-code",
+    "mcp",
+    "skill",
+    "telegram",
+    "telegram-bots"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "expressive-profile",
+   "url": "https://github.com/metawka/expressive-profile",
+   "text": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
+   "fork": false,
+   "stars": 145,
+   "language": "JavaScript",
+   "topics": [
+    "github-actions",
+    "github-profile",
+    "material-design",
+    "material-you",
+    "profile-readme",
+    "readme-generator"
+   ]
+  },
+  {
+   "name": "exDesktop",
+   "url": "https://github.com/metawka/exDesktop",
+   "text": "exDesktop – Модифицированный кросс-платформенный клиент Telegram Desktop с расширенными возможностями кастомизация, Material Expressive дизайном, лентой каналов, функциями AyuGram и плагинами.",
+   "fork": false,
+   "stars": 73,
+   "language": "C++",
+   "topics": [
+    "telegram",
+    "telegram-client",
+    "exdesktop"
+   ]
+  },
+  {
+   "name": "tg-bot-ultra-skill",
+   "url": "https://github.com/metawka/tg-bot-ultra-skill",
+   "text": "Claude Code skill for building Telegram bots on Bot API 10.x rich messages, with a BotFather MCP server",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "claude-code",
+    "mcp",
+    "skill",
+    "telegram",
+    "telegram-bots"
+   ]
+  },
+  {
+   "name": "metawka",
+   "url": "https://github.com/metawka/metawka",
+   "text": "",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Win-Activity-Tracker",
+   "url": "https://github.com/metawka/Win-Activity-Tracker",
+   "text": "Local screen time tracker for Windows with a Task Manager style dashboard. No account, no telemetry.",
+   "fork": false,
+   "stars": 3,
+   "language": "C#",
+   "topics": [
+    "activity-tracker",
+    "csharp",
+    "dotnet",
+    "productivity",
+    "screen-time",
+    "time-tracker",
+    "windows",
+    "winui3"
+   ]
+  },
+  {
+   "name": "711zip",
+   "url": "https://github.com/metawka/711zip",
+   "text": "Windows 11-style front end for 7-Zip (WinUI 3, light/dark)",
+   "fork": false,
+   "stars": 3,
+   "language": "C#",
+   "topics": [
+    "7z",
+    "7zip",
+    "archives",
+    "dotnet",
+    "win11",
+    "windows",
+    "winui3",
+    "zip"
+   ]
+  },
+  {
+   "name": "funpaylitebot-free",
+   "url": "https://github.com/metawka/funpaylitebot-free",
+   "text": "Бесплатное расширение FunPay Lite Bot с полным функционалом PREMIUM версии тарифа с открытым исходным кодом.",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": [
+    "fp",
+    "free",
+    "funpay",
+    "funpaylitebot"
+   ]
+  },
+  {
+   "name": "yandex-music-rpc",
+   "url": "https://github.com/metawka/yandex-music-rpc",
+   "text": "Discord Rich Presence для десктопной Яндекс Музыки. Нативный, без патча клиента",
+   "fork": false,
+   "stars": 2,
+   "language": "Rust",
+   "topics": [
+    "discord-rich-presence",
+    "discord-rpc",
+    "rust",
+    "windows",
+    "yandex-music"
+   ]
+  },
+  {
+   "name": "SuperDictate-win",
+   "url": "https://github.com/metawka/SuperDictate-win",
+   "text": "Fast, private, local dictation for Windows.",
+   "fork": true,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "dictation",
+    "speech-to-text",
+    "windows"
+   ]
+  },
+  {
+   "name": "codegen",
+   "url": "https://github.com/metawka/codegen",
+   "text": "Code generating utilities.",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "lib_ui",
+   "url": "https://github.com/metawka/lib_ui",
+   "text": "GUI controls library.",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  }
+ ]
+}

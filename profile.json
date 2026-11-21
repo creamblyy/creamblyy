@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "login": "creamblyy",
+  "seed": "#2B3CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "creamblyy",
+    "subtitle": "Creator & Lead Developer of ZenDesktop.\nFocused on privacy, custom Telegram clients and native desktop architecture.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "brand:cplusplus",
+        "label": "C++"
+      },
+      {
+        "icon": "desktop_windows",
+        "label": "Desktop"
+      },
+      {
+        "icon": "brand:python",
+        "label": "Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "terminal",
+        "label": "Creator and maintainer of ZenDesktop"
+      },
+      {
+        "icon": "security",
+        "label": "Privacy, reverse engineering and custom clients"
+      },
+      {
+        "icon": "palette",
+        "label": "Material 3 Expressive and Swiss motion design"
+      },
+      {
+        "icon": "desktop_windows",
+        "label": "High-performance native Windows software"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Core",
+        "items": [
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++ / Qt"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "terminal",
+            "label": "CMake / Ninja"
+          }
+        ]
+      },
+      {
+        "title": "Tools & Workflow",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "code",
+            "label": "Visual Studio 2022"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "ZenDesktop"
+    ],
+    "overrides": {
+      "ZenDesktop": {
+        "description": "Модифицированный кросс-платформенный Telegram клиент с приватными хуками и Material 3 Expressive скруглениями."
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/creamblyy"
+      },
+      {
+        "icon": "language",
+        "url": "https://creamblyy.github.io/ZenDesktop"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "ZenDesktop Website",
+        "url": "https://creamblyy.github.io/ZenDesktop",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "ZenDesktop Repository",
+        "url": "https://github.com/creamblyy/ZenDesktop",
+        "style": "tonal"
+      }
+    ]
+  }
+}
