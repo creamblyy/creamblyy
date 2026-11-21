@@ -1,8 +1,8 @@
 {
- "key": "1512547e",
+ "key": "df9d8295",
  "stars": 0,
- "contributions": 26,
- "repos": 3,
+ "contributions": 24,
+ "repos": 2,
  "followers": 0,
  "languages": [
   [
@@ -22,16 +22,16 @@
    272294
   ],
   [
-   "JavaScript",
-   214108
+   "GLSL",
+   71198
   ],
   [
    "CSS",
-   124570
+   64473
   ],
   [
-   "GLSL",
-   71198
+   "JavaScript",
+   42049
   ]
  ],
  "days": [
@@ -169,15 +169,6 @@
    "fork": false,
    "stars": 0,
    "language": "C++",
-   "topics": []
-  },
-  {
-   "name": "swiftbrowser",
-   "url": "https://github.com/creamblyy/swiftbrowser",
-   "text": "Swift Browser",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
    "topics": []
   }
  ]
